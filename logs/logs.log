@@ -1,0 +1,2 @@
+[DEBUG][2019-03-10 12:33:25][com.hc.web.test.Slf4jTest.main(Slf4jTest.java:19)]这是个测试时间{}Sun Mar 10 12:33:25 CST 2019
+[DEBUG][2019-03-10 12:35:32][com.hc.web.test.Slf4jTest.main(Slf4jTest.java:19)]这是个测试时间{}Sun Mar 10 12:35:32 CST 2019
